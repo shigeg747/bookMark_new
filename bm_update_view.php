@@ -44,7 +44,7 @@ if($status==false){
         <div class="container-fluid">
           <div class="navbar-header">
             <a class="navbar-brand" href="select.php">データ一覧</a>
-            <a class="navbar-brand" href="index.php">データ登録</a>
+            <a class="navbar-brand" href="index.html">データ登録</a>
             <!-- <a class="navbar-brand" href="index.html">ログアウト</a> -->
           </div>
         </div>

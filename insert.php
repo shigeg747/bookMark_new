@@ -57,7 +57,7 @@ if($status==false){
 
 }else{
   //５．index.phpへリダイレクト
-  header("Location: index.php");
+  header("Location: index.html");
   exit;
 
 }

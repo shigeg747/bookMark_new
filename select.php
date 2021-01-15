@@ -68,7 +68,7 @@ if($status==false) {
         <div class="container-fluid" style="position:relative;">
           <div class="navbar-header">
             <a class="navbar-brand aaa" href="select.php">データ一覧</a>
-            <a class="navbar-brand aaa" href="index.php">データ登録</a>
+            <a class="navbar-brand aaa" href="index.html">データ登録</a>
             <!-- <a class="navbar-brand aaa" href="logout.php">ログアウト</a> -->
           </div>
         </div>
